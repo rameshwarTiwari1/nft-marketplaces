@@ -5,4 +5,7 @@ p {
 }
 .bg-img {
   background-image: url(./assets/8.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 99vh;
 }

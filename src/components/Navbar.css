@@ -5,10 +5,8 @@
 }
 
 nav {
-  /* background-image: url(../assets/8.jpg); */
-  /* background-color: white; */
-  height: 10vh;
-  /* box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 10%); */
+  width: 100%;
+  position: absolute;
 }
 ul {
   list-style: none;
@@ -19,17 +17,19 @@ li {
   padding: 10px;
   align-items: center;
   justify-content: center;
+
 }
 a {
-  /* color: white; */
+  color: white;
   text-decoration: none;
 }
-.search-bar .searchIcon {
+
+/* .search-bar .searchIcon {
   border: none;
   background: white;
   align-items: center;
   justify-content: center;
-}
+} */
 /* .gradient-bg-welcome {
   background-color: #0f0e13;
   background-image: radial-gradient(

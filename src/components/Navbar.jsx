@@ -5,14 +5,14 @@ import './Navbar.css';
 
 const Navbar = () => {
   return (
-    <nav className="gradient-bg-welcome">
+    <nav className="navbar gradient-bg-welcome">
       <ul>
         <li>
           <a href="#">Home</a>
         </li>
         <li>
           <a href="#">Exchange</a>
-        </li> 
+        </li>
         <li>
           <a href="#">About</a>
         </li>
