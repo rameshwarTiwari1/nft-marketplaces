@@ -4,7 +4,7 @@ import './style.css';
 export default function App() {
   return (
     <div>
-      <div classname="bg-img">
+      <div className="bg-img">
         <Navbar />
         <Welcome />
       </div>
